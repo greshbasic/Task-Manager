@@ -4,7 +4,6 @@ import { STRAWHATS } from './dummy-users';
 import { UserComponent } from './user/user.component';
 import { TasksComponent } from './tasks/tasks.component';
 
-
 @Component({
   selector: 'app-root',
   standalone: true,
